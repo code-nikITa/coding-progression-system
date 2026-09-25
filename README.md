@@ -1,9 +1,9 @@
-# Coding Progression System
+# Coding Progression System 🎮
 
 Геймифицированный дневник кодинга для Obsidian: один Python-скрипт превращает
 данные [WakaTime](https://wakatime.com) в ежедневную заметку с XP, уровнями,
 стриками, ачивками, "деревом навыков" по языкам, таблицей лидеров и другими
-виджетами — всё в виде красиво оформленных карточек прямо в Obsidian.
+виджетами. И всё это в виде красиво оформленных карточек прямо в Obsidian 💜
 
 ## Скриншоты
 
@@ -35,11 +35,6 @@
 <td><img src="assets/top-weeks.png" alt="Top Weeks by XP"></td>
 </tr>
 </table>
-
-Это 10 из 12 виджетов заметки — плюс сама карточка "Today's Session" и XP & Level
-показаны выше в виде GIF. Полный список: Today's Session, XP & Level, Streak,
-Weekly Goals, Today's Achievements, Skill Tree, Trophy Room, Leaderboard,
-Top Weeks by XP, Daily Average, Activity (30 Days), XP (14 Days).
 
 ## Что нужно
 

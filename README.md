@@ -1,5 +1,9 @@
 # Coding Progression System 🎮
 
+![License](https://img.shields.io/github/license/code-nikITa/coding-progression-system)
+![Release](https://img.shields.io/github/v/release/code-nikITa/coding-progression-system)
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+
 Геймифицированный дневник кодинга для Obsidian: один Python-скрипт превращает
 данные [WakaTime](https://wakatime.com) в ежедневную заметку с XP, уровнями,
 стриками, ачивками, "деревом навыков" по языкам, таблицей лидеров и другими
@@ -97,6 +101,8 @@
 MIT — используйте, меняйте и распространяйте свободно.
 
 ---
+
+Нашли баг или есть идея? — [создайте issue](../../issues/new)
  
 <p align="center">
   <b>Управляешь прогрессом — получаешь удовольствие от процесса.</b>

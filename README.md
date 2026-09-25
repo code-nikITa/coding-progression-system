@@ -105,10 +105,10 @@ MIT — используйте, меняйте и распространяйте
 Нашли баг или есть идея? — [создайте issue](../../issues/new)
  
 <p align="center">
-  <b>Управляешь прогрессом — получаешь удовольствие от процесса.</b>
+  <b>Управляешь прогрессом — получаешь удовольствие от процесса</b>
 </p>
 <p align="center">
-  Автор: <b>nikITa</b> — контент про IT и разработку<br>
+  <b>nikITa</b> — контент про IT и разработку<br>
   📱 Telegram: <a href="https://t.me/code_nikITa">@code_nikITa</a> ·
   ▶️ YouTube: <a href="https://www.youtube.com/@nikITa_in_IT">nikITa - путь в IT</a>
 </p>

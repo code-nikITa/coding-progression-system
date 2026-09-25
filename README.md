@@ -48,9 +48,9 @@
 ## Установка
 
 1. Скачайте `wakatime_to_obsidian.py` с последнего релиза.
-2. Установите зависимости:
+2. Установите единственную зависимость:
    ```
-   pip install -r requirements.txt
+   pip install requests
    ```
 3. Откройте `wakatime_to_obsidian.py` и заполните блок `НАСТРОЙКИ` в начале файла:
    - `WAKATIME_API_KEY` — ваш ключ, страница `https://wakatime.com/settings/api-key`

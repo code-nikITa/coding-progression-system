@@ -12,9 +12,9 @@
 ## Скриншоты
 
 <p align="center">
-  <img src="assets/todays-session-demo.gif" width="420" alt="Today's Session — карточка дня">
+  <img src="assets/todays-session-demo.gif" width="400" alt="Today's Session — карточка дня">
   &nbsp;&nbsp;
-  <img src="assets/xp-level-demo.gif" width="420" alt="XP & Level — заполнение уровня">
+  <img src="assets/xp-level-demo.gif" width="400" alt="XP & Level — заполнение уровня">
 </p>
 
 <table>

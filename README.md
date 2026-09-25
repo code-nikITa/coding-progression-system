@@ -47,7 +47,7 @@
 
 ## Установка
 
-1. Скачайте `wakatime_to_obsidian.py` и `requirements.txt`.
+1. Скачайте `wakatime_to_obsidian.py` с последнего релиза.
 2. Установите зависимости:
    ```
    pip install -r requirements.txt
